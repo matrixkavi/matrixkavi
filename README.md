@@ -15,9 +15,9 @@ This is where I would be nerding on Open Source, Software Architecture ( and som
 
 ### 🧐 So What's with the name matrixkavi?
 
-Uh, that has a funny backstory. And that has nothing to do with the matrix triology. 😑 I know..
+Uh, that has a funny backstory. And that has nothing to do with the matrix trilogy. 😑 I know..
 
-Not a sad story, don’t worry. Back in college (yes, I’m old. please don’t make eye contact about it 🤨), I was bizarrely good at Math. Like, matrix Math. Reduction, transpose, spooky wizardry.
+Not a sad story, don’t worry. Back in college, I was bizarrely good at Math. Like, matrix Math. Reduction, transpose, spooky wizardry.
 
 I could reduce and tame scary matrices in 3 or 4 steps while others did the same in 10 or 12 steps. How? No idea. Do I remember how now? Absolutely not. 😶
 
