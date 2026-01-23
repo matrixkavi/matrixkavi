@@ -7,7 +7,7 @@ This is where I would be nerding on Open Source, Software Architecture ( and som
 - 🔭 I’m currently volunteering as an open source contributor for Meshery.
 - 🌱 I’m currently learning a bit of everything everyday. 🤷
 - 👯 I’m looking to collaborate on more open source projects that would change the world. 
-- 🤔 I’m looking for help with mentoring juniors, troubleshooting, bug fixes, enhancements etc.
+- 🤔 I’m looking to help with mentoring juniors, troubleshooting, bug fixes, enhancements etc.
 - 💬 Ask me about Java, Golang, Python or system design.
 - 😄 Pronouns: She/her/hers
 - 🤩 Interests: CNCF, LF, K8s, K3s, Docker, Storage and Network virtualizations
