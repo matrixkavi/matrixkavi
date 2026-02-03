@@ -5,7 +5,7 @@ This is where I would be nerding on Open Source, Software Architecture ( and som
 
 
 - 🔭 I’m currently volunteering as an Open Source Contributor for Meshery, the cloud native manager in CNCF.
-- 🎖️ Recently became member of GitHub Organization Layer5io  <a href="https://github.com/layer5io" target="blank"><img width="18" height="18" alt="Layer5io" src="https://github.com/user-attachments/assets/330bb7a3-0cbc-465b-8077-3129a9a84123" />
+- 🎖️ Recently became member of GitHub Community for Layer5io  <a href="https://github.com/layer5io" target="blank"><img width="18" height="18" alt="Layer5io" src="https://github.com/user-attachments/assets/330bb7a3-0cbc-465b-8077-3129a9a84123" />
 - 🌱 I’m currently learning a bit of everything everyday. 🤷
 - 👯 I’m looking to collaborate on more open source projects that would change the world. 
 - 🤔 I’m looking to help with mentoring juniors, troubleshooting, bug fixes, enhancements etc.
