@@ -29,3 +29,7 @@ Fast-forward to the future: I casually added “kavi” to it and now use `matri
 ### 🔗  How to reach me: 
 <a href="https://www.linkedin.com/in/kavitha-karunakaran-9aa20829/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kavitha Karunakaran" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/3981539/kavitha-karunakaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Kavitha Karunakaran" height="30" width="40" /></a>
+
+### 😎  My Latest Achievements :
+<a href="https://cloud.layer5.io/user/553a1e19-c2c3-4047-a461-68e98fe93fba?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a>
+<a href="https://cloud.layer5.io/user/553a1e19-c2c3-4047-a461-68e98fe93fba?tab=badges&badge=certified-meshery-contributor" alt="Certified Meshery Contributor" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor" /></a>
