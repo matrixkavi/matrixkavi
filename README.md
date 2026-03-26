@@ -4,7 +4,7 @@ I'm Kavitha Karunakaran, a seasoned Software Engineer with 15+ years of experien
 This is where I would be nerding on Open Source, Software Architecture ( and sometimes ponder about life decisions 😆)
 
 
-- 🔭 I’m currently volunteering as an Open Source Contributor for Meshery, the cloud native manager in CNCF. A Certified Meshery Contributor since February 12, 2026.
+- 🔭 I’m currently volunteering as an Open Source Contributor for Meshery, the cloud native manager in CNCF. A Certified Meshery Contributor since February 12, 2026.Am also hosting study groups every Friday for Certified Meshery Contributor certificate aspirants. You can checkout my member profile at Layer5io [here](https://layer5.io/community/members/kavitha-karunakaran)
 - 🎖️ Recently became member of GitHub Community for: 
    - Layer5io  <a href="https://github.com/layer5io" target="blank"><img width="18" height="18" alt="Layer5io" src="https://github.com/user-attachments/assets/330bb7a3-0cbc-465b-8077-3129a9a84123" />
    - Meshery <a href="https://github.com/meshery" target="blank"><img width="18" height="18" alt="Meshery" src="https://github.com/user-attachments/assets/77003400-199b-47bd-bd45-30c5fb05bbc7" /> 
